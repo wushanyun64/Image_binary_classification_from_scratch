@@ -1,0 +1,7 @@
+# ignore all the data files. 
+#(data can be downloaded through keegle api when excecute Example_Hotdog.ipynb)
+**/seafood
+**/test
+**/train
+data/hot-dog-not-hot-dog.zip
+**/__pycache__
