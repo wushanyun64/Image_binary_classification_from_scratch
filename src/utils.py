@@ -3,7 +3,6 @@ __email__ = "wushanyun64@gmail.com"
 
 from PIL import Image
 import numpy as np
-from matplotlib import pyplot as plt
 import h5py
 
 def load_images(address_list,image_size):
